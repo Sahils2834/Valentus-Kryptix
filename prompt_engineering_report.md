@@ -581,15 +581,9 @@ This experiment demonstrates that the best prompting technique depends on the ta
 
 ## 8. Evidence
 
-The attached Google AI Studio screenshots document:
-
-1. The step-by-step calculation and final answer of ₹65.
-2. The comparison table showing that both prompting approaches returned ₹65.
-3. The original problem and the direct-prompt response of ₹65.
-
-These screenshots support the reported outcome of this experiment.
-
-
+Image 1: ![alt text](image-10.png)
+Image 2: ![alt text](image-11.png)
+Image 3: ![alt text](image-12.png)
 
 
 # Experiment 3: Structured Output — Reliable JSON Generation with Gemini 3.8 Flash
