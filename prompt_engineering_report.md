@@ -920,6 +920,7 @@ Future work could test more challenging inputs, repeat each test several times, 
 ## 11. Evidence:
 
 step 1,2,3 :![alt text](image-7.png)
-step 1,2,3 :![alt text](image-8.png)
+step 1,2,3 p2 :![alt text](image-8.png)
 step 4: ![alt text](image-5.png)
 step 5: ![alt text](image-6.png)
+comparison :![alt text](image-9.png)
